@@ -4,3 +4,5 @@ Collection of implementation of random samplers from diverse papers with differe
 - Vitter D
 - Floyd
 - Hidden Shuffle
+
+These were implemented as small exercises and not tested thoroughly. They may contain errors.
